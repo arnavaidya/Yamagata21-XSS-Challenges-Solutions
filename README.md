@@ -2,3 +2,7 @@
 This repo contains my solutions to the XSS Challenges (by yamagata21).
 
 ## Stage #1
+
+<p align="center">
+<img width="634" height="337" alt="image" src="https://github.com/user-attachments/assets/1abe0971-b793-4c13-bdb5-7f48e4506be4" />
+</p>
