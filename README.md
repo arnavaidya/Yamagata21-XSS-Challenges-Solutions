@@ -8,5 +8,5 @@ This repo contains my solutions to the XSS Challenges (by yamagata21).
 </p>
 
 <p align="center">
-<img width="634" height="337" alt="image" src="https://github.com/user-attachments/assets/0604ada7-f9f6-4fd6-a8bb-7dd6612d5ab0" />
+<img width="616" height="396" alt="image" src="https://github.com/user-attachments/assets/738b3311-57b6-43b8-bde8-51a0aaf9d9fb" />
 </p>
