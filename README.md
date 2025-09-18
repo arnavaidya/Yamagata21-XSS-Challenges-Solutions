@@ -31,6 +31,8 @@ In order to do this, our payload should begin with something like: "><script....
 <img width="646" height="294" alt="image" src="https://github.com/user-attachments/assets/5f7b86cd-e8bc-444f-95a0-fc7614d18243" />
 </p>
 
-
+<p align="center">
+<img width="335" height="47" alt="image" src="https://github.com/user-attachments/assets/1ae77ae8-47a3-40d0-a2ad-7a05cafe8a08" />
+</p>
 
 
