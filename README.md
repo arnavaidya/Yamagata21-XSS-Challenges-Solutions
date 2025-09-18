@@ -13,6 +13,10 @@ Simply enter this payload in the input field:
 <img width="626" height="346" alt="image" src="https://github.com/user-attachments/assets/28b7d4da-4689-4cfc-8041-5a62e5a22a1a" />
 </p>
 
+<p align="center">
+<img width="1791" height="383" alt="image" src="https://github.com/user-attachments/assets/3e8d20d6-ed81-410c-9c6f-eb7ccc86c752" />
+</p>
+
 
 <p align="center">
 <img width="616" height="396" alt="image" src="https://github.com/user-attachments/assets/738b3311-57b6-43b8-bde8-51a0aaf9d9fb" />
