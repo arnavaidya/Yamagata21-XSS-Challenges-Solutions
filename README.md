@@ -18,3 +18,19 @@ You'll get an alert and the stage will be cleared!
 <p align="center">
 <img width="616" height="396" alt="image" src="https://github.com/user-attachments/assets/738b3311-57b6-43b8-bde8-51a0aaf9d9fb" />
 </p>
+
+## Stage #2
+
+This is where the game actually begins.
+
+The hint says that there is an existing tag that needs to be closed first.
+
+In order to do this, our payload should begin with something like: "><script......
+
+<p align="center">
+<img width="646" height="294" alt="image" src="https://github.com/user-attachments/assets/5f7b86cd-e8bc-444f-95a0-fc7614d18243" />
+</p>
+
+
+
+
