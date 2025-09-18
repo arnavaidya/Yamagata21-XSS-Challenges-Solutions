@@ -7,7 +7,7 @@ This is understandably the easiest stage of this game.
 
 Simply enter this payload in the input field: 
 
-  <script>alert(document.domain)</script>
+    <script>alert(document.domain)</script>
 
 <p align="center">
 <img width="626" height="346" alt="image" src="https://github.com/user-attachments/assets/28b7d4da-4689-4cfc-8041-5a62e5a22a1a" />
