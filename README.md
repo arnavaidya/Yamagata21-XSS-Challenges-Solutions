@@ -64,3 +64,13 @@ You'll get an alert and the stage will be cleared!
 <p align="center">
 <img width="673" height="298" alt="image" src="https://github.com/user-attachments/assets/c7f26df1-fece-46f0-9797-44b1df721bca" />
 </p>
+
+## Stage #4
+
+The hint says there's a hidden input field. 
+
+<p align="center">
+<img width="659" height="269" alt="image" src="https://github.com/user-attachments/assets/b9009458-57ac-4535-8840-d9984e32c879" />
+</p>
+
+We have a target to exploit. Change the input type from 'hidden' to 'text' to see how the input value is stored.
