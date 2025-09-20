@@ -43,3 +43,14 @@ You'll get an alert and the stage will be cleared!
 <img width="684" height="317" alt="image" src="https://github.com/user-attachments/assets/cb8b587b-af7f-466f-bdc0-219497718a28" />
 </p>
 
+## Stage #3
+
+The input field seems to be properly escaped. However, we are introduced to a new input field here; the dropdown.
+
+Try entering a payload where the 'option' tag is closed and the alert tag is embedded.
+
+    test123><img src=x onerror=alert(document.domain)>
+
+<p align="center">
+<img width="677" height="276" alt="image" src="https://github.com/user-attachments/assets/8ecbe22a-ee07-417d-9c98-40027218f3d9" />
+</p>
