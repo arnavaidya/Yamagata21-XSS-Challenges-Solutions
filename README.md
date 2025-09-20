@@ -47,10 +47,20 @@ You'll get an alert and the stage will be cleared!
 
 The input field seems to be properly escaped. However, we are introduced to a new input field here; the dropdown.
 
+<p align="center">
+<img width="669" height="270" alt="image" src="https://github.com/user-attachments/assets/abb60337-7667-46cd-96f0-d789ec3853f3" />
+</p>
+
 Try entering a payload where the 'option' tag is closed and the alert tag is embedded.
 
     test123><img src=x onerror=alert(document.domain)>
 
 <p align="center">
-<img width="677" height="276" alt="image" src="https://github.com/user-attachments/assets/8ecbe22a-ee07-417d-9c98-40027218f3d9" />
+<img width="348" height="151" alt="image" src="https://github.com/user-attachments/assets/f77f6523-bcab-40c1-9efd-3e014b4ecb70" />
+</p>
+
+You'll get an alert and the stage will be cleared!
+
+<p align="center">
+<img width="673" height="298" alt="image" src="https://github.com/user-attachments/assets/c7f26df1-fece-46f0-9797-44b1df721bca" />
 </p>
