@@ -79,4 +79,22 @@ The hint says there's a hidden input field.
 <img width="659" height="269" alt="image" src="https://github.com/user-attachments/assets/b9009458-57ac-4535-8840-d9984e32c879" />
 </p>
 
-We have a target to exploit. Change the input type from 'hidden' to 'text' to see how the input value is stored.
+We have a target to exploit. Intercept the traffic in Burp Suite.
+
+You'll find another input field 'p3'.
+
+<p align="center">
+<img width="260" height="200" alt="image" src="https://github.com/user-attachments/assets/54d0ec5b-13eb-4c85-95bd-2cb4404734d6" />
+</p>
+
+Enter the same payload as stage 2 in the 'p3' field.
+
+    "><script>alert(document.domain)</script>
+
+Forward the request.
+
+You'll get an alert and the stage will be cleared!
+
+<p align="center">
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/30ab363d-3e2e-494a-a344-838af30605e1" />
+</p>
