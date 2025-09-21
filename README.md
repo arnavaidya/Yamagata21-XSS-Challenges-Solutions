@@ -56,16 +56,12 @@ The previous payload fails because of HTML encoding. Try intercepting the traffi
 You'll find another input field 'p2'.
 
 <p align="center">
-<img width="435" height="270" alt="image" src="https://github.com/user-attachments/assets/6aee7f46-2e1e-43f9-ac1d-4c2d4cdc728a" />
+<img width="747" height="645" alt="image" src="https://github.com/user-attachments/assets/4d458717-28c6-4084-b083-f9e9c9abd258" />
 </p>
 
 Enter this payload in place of 'Japan' in p2.
 
     "><script>alert(document.domain)</script>
-
-<p align="center">
-<img width="348" height="151" alt="image" src="https://github.com/user-attachments/assets/f77f6523-bcab-40c1-9efd-3e014b4ecb70" />
-</p>
 
 You'll get an alert and the stage will be cleared!
 
