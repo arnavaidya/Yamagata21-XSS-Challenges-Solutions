@@ -51,9 +51,17 @@ The input field seems to be properly escaped. However, we are introduced to a ne
 <img width="669" height="270" alt="image" src="https://github.com/user-attachments/assets/abb60337-7667-46cd-96f0-d789ec3853f3" />
 </p>
 
-Try entering a payload where the 'option' tag is closed and the alert tag is embedded.
+The previous payload fails because of HTML encoding. Try intercepting the traffic using Burp Suite. 
 
-    test123><img src=x onerror=alert(document.domain)>
+You'll find another input field 'p2'.
+
+<p align="center">
+<img width="435" height="270" alt="image" src="https://github.com/user-attachments/assets/6aee7f46-2e1e-43f9-ac1d-4c2d4cdc728a" />
+</p>
+
+Enter this payload in place of 'Japan' in p2.
+
+    "><script>alert(document.domain)</script>
 
 <p align="center">
 <img width="348" height="151" alt="image" src="https://github.com/user-attachments/assets/f77f6523-bcab-40c1-9efd-3e014b4ecb70" />
