@@ -63,6 +63,8 @@ Enter this payload in place of 'Japan' in p2.
 
     "><script>alert(document.domain)</script>
 
+Forward this request.
+
 You'll get an alert and the stage will be cleared!
 
 <p align="center">
