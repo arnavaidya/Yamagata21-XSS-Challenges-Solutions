@@ -56,7 +56,7 @@ The previous payload fails because of HTML encoding. Try intercepting the traffi
 You'll find another input field 'p2'.
 
 <p align="center">
-<img width="747" height="645" alt="image" src="https://github.com/user-attachments/assets/4d458717-28c6-4084-b083-f9e9c9abd258" />
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/4d458717-28c6-4084-b083-f9e9c9abd258" />
 </p>
 
 Enter this payload in place of 'Japan' in p2.
