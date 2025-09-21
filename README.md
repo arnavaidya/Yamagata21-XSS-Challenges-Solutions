@@ -98,3 +98,27 @@ You'll get an alert and the stage will be cleared!
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/30ab363d-3e2e-494a-a344-838af30605e1" />
 </p>
+
+## Stage #5
+
+The hint says that the input field is now restricted to a certain input length.
+
+<p align="center">
+<img width="1412" height="692" alt="image" src="https://github.com/user-attachments/assets/7917184c-b38b-4c53-96ab-374ec6724664" />
+</p>
+
+Open DevTools -> Elements and simply change the 'maxlength' and 'size' values to a big value like 50.
+
+<p align="center">
+<img width="1035" height="50" alt="image" src="https://github.com/user-attachments/assets/96e874bd-2f89-451d-b893-8fe1892640ba" />
+</p>
+
+Now enter the same payload as stage 2 in the input field.
+
+    "><script>alert(document.domain)</script>
+
+Submitting will get you the alert and the stage will be cleared!
+
+<p align="center">
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/85b8540e-1623-4cee-8345-97bf3eb5a56c" />
+</p>
