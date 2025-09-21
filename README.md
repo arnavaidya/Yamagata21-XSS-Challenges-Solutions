@@ -40,7 +40,7 @@ This is how the input tag is being closed to begin the injected script tag.
 You'll get an alert and the stage will be cleared!
 
 <p align="center">
-<img width="684" height="317" alt="image" src="https://github.com/user-attachments/assets/cb8b587b-af7f-466f-bdc0-219497718a28" />
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/911ba403-9270-4f26-ba93-d973bd7b39a9" />
 </p>
 
 ## Stage #3
