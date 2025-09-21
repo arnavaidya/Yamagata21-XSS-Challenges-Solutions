@@ -119,6 +119,16 @@ Now enter the same payload as stage 2 in the input field.
 
 Submitting will get you the alert and the stage will be cleared!
 
+This is a client-side validation bypass.
+
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/85b8540e-1623-4cee-8345-97bf3eb5a56c" />
+</p>
+
+## Stage #6
+
+
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/42c97f46-e450-431b-b900-9eab97a73493" />
 </p>
