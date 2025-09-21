@@ -68,7 +68,7 @@ Forward this request.
 You'll get an alert and the stage will be cleared!
 
 <p align="center">
-<img width="673" height="298" alt="image" src="https://github.com/user-attachments/assets/c7f26df1-fece-46f0-9797-44b1df721bca" />
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/518ab9a8-e368-4cb0-9031-0746326d2aa6" />
 </p>
 
 ## Stage #4
