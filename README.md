@@ -104,7 +104,7 @@ You'll get an alert and the stage will be cleared!
 The hint says that the input field is now restricted to a certain input length.
 
 <p align="center">
-<img width="660" height="270" alt="image" src="https://github.com/user-attachments/assets/7917184c-b38b-4c53-96ab-374ec6724664" />
+<img width="650" height="270" alt="image" src="https://github.com/user-attachments/assets/7917184c-b38b-4c53-96ab-374ec6724664" />
 </p>
 
 Open DevTools -> Elements and simply change the 'maxlength' and 'size' values to a big value like 50.
