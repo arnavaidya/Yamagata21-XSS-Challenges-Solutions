@@ -110,7 +110,7 @@ The hint says that the input field is now restricted to a certain input length.
 Open DevTools -> Elements and simply change the 'maxlength' and 'size' values to a big value like 50.
 
 <p align="center">
-<img width="335" height="50" alt="image" src="https://github.com/user-attachments/assets/96e874bd-2f89-451d-b893-8fe1892640ba" />
+<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/96e874bd-2f89-451d-b893-8fe1892640ba" />
 </p>
 
 Now enter the same payload as stage 2 in the input field.
