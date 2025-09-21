@@ -16,7 +16,7 @@ Simply enter this payload in the input field:
 You'll get an alert and the stage will be cleared!
 
 <p align="center">
-<img width="616" height="396" alt="image" src="https://github.com/user-attachments/assets/738b3311-57b6-43b8-bde8-51a0aaf9d9fb" />
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/c28b75ba-d859-4dda-b16a-77ecbd8b5988" />
 </p>
 
 ## Stage #2
