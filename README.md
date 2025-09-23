@@ -194,3 +194,39 @@ Clicking on it will will send an alert and the stage will be cleared!
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/66c627c1-4efe-442b-9008-98b1f0d73633" />
 </p>
+
+## Stage #9
+
+This stage has something to do with UTF-7 which is supported in older versions of Internet Explorer only. The stage can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
+
+## Stage #10
+
+The hint mentions something which I didn't get. 
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/bf7327cc-77dd-46d6-90f7-4133272119ae" />
+</p>
+
+However I tried the classic <script>alert(document.domain)</script> payload and found out that the word 'domain' (word after the '.') is being removed.
+
+There are a few different approaches to solve this stage.
+
+1. The payload here is designed in such a way that the word 'domain' will be regenerated if broken down.
+    
+        "><script>alert(document.dodomainmain)</script>
+
+2. Encode and decode 'document.domain' with Base64.
+
+        "><script>alert(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))</script>
+
+   This payload works only because it generates an alert (Don't think it is the expected solution).
+
+4. Split the 'document.domain' part and concat it back.
+
+       <script>alert(eval('document.dom'+'ain'))</script>
+
+Submitting any of these payloads will generate an alert and the stage will be cleared.
+
+<p align="center">
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/8bf0613e-288d-4a7e-97db-63759e3c8ad5" />
+</p>
