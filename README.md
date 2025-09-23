@@ -180,3 +180,17 @@ The hint mentions something about javascript scheme.
 <p align="center">
 <img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/ccf2eaa0-a884-4a1a-8763-3d6170f69f4b" />
 </p>
+
+We are expected to 'Make a link' using javascript scheme.
+
+The payload will simply look like:
+
+    javascript:alert(document.domain)
+
+Submitting this payload will create a link.
+
+Clicking on it will will send an alert and the stage will be cleared!
+
+<p align="center">
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/66c627c1-4efe-442b-9008-98b1f0d73633" />
+</p>
