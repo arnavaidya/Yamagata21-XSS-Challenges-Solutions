@@ -127,8 +127,26 @@ This is a client-side validation bypass.
 
 ## Stage #6
 
-
+The hint says that this stage has something to do with event handler attributes.
 
 <p align="center">
 <img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/42c97f46-e450-431b-b900-9eab97a73493" />
+</p>
+
+These include 'onmouseover', 'onclick', 'oninput' and many more.
+
+So it is safe to assume that the payload in this stage needs to be designed using an event handler attribute.
+
+Something like: 
+
+    " onmouseover="alert(document.domain)"
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/62f71acb-d78d-4eea-8a31-662b71887785" />
+</p>
+
+Submitting will get you an alert and the stage will be cleared.
+
+<p align="center">
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/eea0ee8a-6db7-4be6-9e94-bf6575ddaeee" />
 </p>
