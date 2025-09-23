@@ -161,6 +161,10 @@ This stage seems to be similar to the previous one.
 
 The previous stage's payload won't work here, since this stage adds an extra " for every double quote entered.
 
+<p align="center">
+<img width="550" height="500" alt="image" src="https://github.com/user-attachments/assets/5c34a523-a063-4b0f-b591-55d5c94dcad2" />
+</p>
+
 This payload works for this stage:
 
     " onmousover=alert(document.domain)
