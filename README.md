@@ -235,7 +235,7 @@ This stage isn't available.
 
 ## Stage #12 - #14
 
-These stages seem to work in older versions of Internet Explorer only. These stages can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
+These stages seem to work in older versions of Internet Explorer only and can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
 
 ## Stage #15
 
