@@ -217,9 +217,7 @@ There are a few different approaches to solve this stage.
 
 2. Encode and decode 'document.domain' with Base64.
 
-        "><script>alert(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))</script>
-
-   This payload works only because it generates an alert (Don't think it is the expected solution).
+        "><script>(eval(atob('YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ==')))</script>
 
 4. Split the 'document.domain' part and concat it back.
 
