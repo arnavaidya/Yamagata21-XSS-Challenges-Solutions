@@ -170,5 +170,5 @@ This payload works for this stage:
     " onmousover=alert(document.domain)
 
 <p align="center">
-<img width="3840" height="762" alt="image" src="https://github.com/user-attachments/assets/60ad8339-3a1b-490c-94f1-3bc77e1854e8" />
+<img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/c21ec5ed-dff8-4956-bb55-9afd35843622" />
 </p>
