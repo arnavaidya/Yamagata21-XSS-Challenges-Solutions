@@ -172,3 +172,11 @@ This payload works for this stage:
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/c21ec5ed-dff8-4956-bb55-9afd35843622" />
 </p>
+
+## Stage #8
+
+The hint mentions something about javascript scheme.
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/ccf2eaa0-a884-4a1a-8763-3d6170f69f4b" />
+</p>
