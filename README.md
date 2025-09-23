@@ -150,3 +150,21 @@ Submitting will get you an alert and the stage will be cleared.
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/eea0ee8a-6db7-4be6-9e94-bf6575ddaeee" />
 </p>
+
+## Stage #7
+
+This stage seems to be similar to the previous one.
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/13d4edb6-8f36-4809-a26f-52eea173ac0b" />
+</p>
+
+The previous stage's payload won't work here, since this stage adds an extra " for every double quote entered.
+
+This payload works for this stage:
+
+    " onmousover=alert(document.domain)
+
+<p align="center">
+<img width="3840" height="762" alt="image" src="https://github.com/user-attachments/assets/60ad8339-3a1b-490c-94f1-3bc77e1854e8" />
+</p>
