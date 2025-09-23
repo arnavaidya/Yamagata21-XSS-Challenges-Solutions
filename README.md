@@ -228,3 +228,15 @@ Submitting any of these payloads will generate an alert and the stage will be cl
 <p align="center">
 <img width="2000" height="300" alt="image" src="https://github.com/user-attachments/assets/8bf0613e-288d-4a7e-97db-63759e3c8ad5" />
 </p>
+
+## Stage #11
+
+This stage isn't available.
+
+## Stage #12 - #14
+
+These stages seem to work in older versions of Internet Explorer only. These stages can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
+
+## Stage #15
+
+
