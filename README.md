@@ -270,3 +270,17 @@ Submiting it will get you an alert clearing the stage!
 <p align="center">
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1a3cb7da-37de-4cb4-87cd-5145e9385a49" />
 </p>
+
+## Stage #16
+
+This stage isn't available.
+
+## Stage #17 - #18
+
+These stages seem to work in older versions of Internet Explorer only and can be skipped.
+
+## Stage #19
+
+
+
+
