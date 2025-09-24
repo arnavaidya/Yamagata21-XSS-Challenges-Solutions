@@ -300,8 +300,10 @@ We'll use the same strategy here.
 Replace the href in DevTools with `javascript:alert(document.domain)`.
 
 <p align="center">
-<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/a35f35e6-d0cc-413a-aad0-264e47e7ffcc" />
+<img width="400" height="75" alt="image" src="https://github.com/user-attachments/assets/a35f35e6-d0cc-413a-aad0-264e47e7ffcc" />
 </p>
 
-
+<p align="center">
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/d5b2435e-d14c-4dc8-b3a1-831f5a92f91c" />
+</p>
 
