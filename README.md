@@ -248,5 +248,5 @@ The hint suggests that this stage has something to do with the 'document.write()
 I tried a test payload of the usual '<script>alert(document.domain)</script>' and observed that the characters '<', '>' are being HTML encoded.
 
 <p align="center">
-<img width="500" height="80" alt="image" src="https://github.com/user-attachments/assets/c71935ec-35d1-43d5-b181-feaf969b2d7d" />
+<img width="550" height="90" alt="image" src="https://github.com/user-attachments/assets/c71935ec-35d1-43d5-b181-feaf969b2d7d" />
 </p>
