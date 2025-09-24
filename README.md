@@ -250,3 +250,13 @@ I tried a test payload of the usual '<script>alert(document.domain)</script>' an
 <p align="center">
 <img width="550" height="90" alt="image" src="https://github.com/user-attachments/assets/c71935ec-35d1-43d5-b181-feaf969b2d7d" />
 </p>
+
+This means we need to encode the characters ourselves to bypass this check.
+
+Convert the payload to Hex which will look like this: `\x3cscript\x3ealert(document.domain)\x3c/script\x3e`
+
+But the server just removes the slashes from the input.
+
+<p align="center">
+<img width="550" height="520" alt="image" src="https://github.com/user-attachments/assets/07d72557-7db6-4784-8cc4-12dd393b1f70" />
+</p>
