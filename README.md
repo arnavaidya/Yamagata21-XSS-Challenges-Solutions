@@ -242,11 +242,11 @@ These stages seem to work in older versions of Internet Explorer only and can be
 The hint suggests that this stage has something to do with the 'document.write()' function.
 
 <p align="center">
-<img width="1617" height="775" alt="image" src="https://github.com/user-attachments/assets/f20cedc3-389c-4321-9945-32a64ae681f8" />
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/f20cedc3-389c-4321-9945-32a64ae681f8" />
 </p>
 
 I tried a test payload of the usual '<script>alert(document.domain)</script>' and observed that the characters '<', '>' are being HTML encoded.
 
 <p align="center">
-<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/c71935ec-35d1-43d5-b181-feaf969b2d7d" />
+<img width="500" height="80" alt="image" src="https://github.com/user-attachments/assets/c71935ec-35d1-43d5-b181-feaf969b2d7d" />
 </p>
