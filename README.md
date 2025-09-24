@@ -281,6 +281,27 @@ These stages seem to work in older versions of Internet Explorer only and can be
 
 ## Stage #19
 
+The hint says "Twitter DomXss at Sep 24, 2010".
+
+<p align="center">
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/bbe16789-38c7-468c-8295-1803e8d630f1" />
+</p>
+
+Looking at a few articles about this, I found that Twitter had a code snippet like:
+
+`//<![CDATA[
+(function(g){var a=location.href.split("#!")[1];if(a){g.location=g.HBR=a;}})(window);
+//]]>`
+
+This made it possible to inject Javascript scheme as: `http://twitter.com/#!javascript:alert(document.domain);` to get an XSS.
+
+We'll use the same strategy here.
+
+Replace the href in DevTools with `javascript:alert(document.domain)`.
+
+<p align="center">
+<img width="400" height="50" alt="image" src="https://github.com/user-attachments/assets/a35f35e6-d0cc-413a-aad0-264e47e7ffcc" />
+</p>
 
 
 
