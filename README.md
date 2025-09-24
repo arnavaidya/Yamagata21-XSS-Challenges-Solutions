@@ -307,3 +307,8 @@ Replace the href in DevTools with `javascript:alert(document.domain)`.
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/d5b2435e-d14c-4dc8-b3a1-831f5a92f91c" />
 </p>
 
+And BOOM! Just like that we have cleared all stages of the XSS Challenge (by yamagata21).
+
+<p align="center">
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/4edb30c6-1ac4-4f30-9d26-d20955467e6b" />
+</p>
