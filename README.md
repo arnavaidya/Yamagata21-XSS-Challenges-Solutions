@@ -291,7 +291,7 @@ Simply add another slash for every slash in Hex. The payload that works:
 
     \\x3cscript\\x3ealert(document.domain)\\x3c/script\\x3e
 
-Submiting it will get you an alert clearing the stage!
+Submitting it will get you an alert clearing the stage!
 
 <p align="center">
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/1a3cb7da-37de-4cb4-87cd-5145e9385a49" />
