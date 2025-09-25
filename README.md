@@ -241,6 +241,10 @@ A lot of articles and walkthroughs suggest that this stage works on Internet Exp
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/6651280e-c763-45a1-ba89-d7499ec6f921" />
 </p>
 
+<p align="center">
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/761931f2-ebd7-43e1-851e-392c53cf482c" />
+</p>
+
 ## Stage #13 - #14
 
 These stages seem to work in older versions of Internet Explorer only and can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
