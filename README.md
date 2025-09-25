@@ -233,7 +233,15 @@ Submitting any of these payloads will generate an alert and the stage will be cl
 
 This stage isn't available.
 
-## Stage #12 - #14
+## Stage #12
+
+A lot of articles and walkthroughs suggest that this stage works on Internet Explorer only, so I switched to a device with IE support.
+
+<p align="center">
+![12_1](https://github.com/user-attachments/assets/3a74dac8-dfc6-4d92-87d2-e52367393da3)
+</p>
+
+## Stage #13 - #14
 
 These stages seem to work in older versions of Internet Explorer only and can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
 
