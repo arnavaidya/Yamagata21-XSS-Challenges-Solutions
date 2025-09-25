@@ -261,7 +261,7 @@ The payload works and gives an alert on mouseover.
 
 ## Stage #13 - #14
 
-These stages seem to work in older versions of Internet Explorer only and can be skipped by simply entering 'alert(document.domain)' in the Console in DevTools.
+I tried multiple solutions that are publically available through walkthroughs on Internet Explorer, but none of them seemed to work. This might be an issue regarding the version of Internet Explorer required to solve these stages. I skipped these and moved on to the 15th stage.
 
 ## Stage #15
 
