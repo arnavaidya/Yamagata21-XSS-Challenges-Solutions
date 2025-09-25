@@ -238,7 +238,7 @@ This stage isn't available.
 A lot of articles and walkthroughs suggest that this stage works on Internet Explorer only, so I switched to a device with IE support.
 
 <p align="center">
-<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/6651280e-c763-45a1-ba89-d7499ec6f921" />
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/6651280e-c763-45a1-ba89-d7499ec6f921" />
 </p>
 
 ## Stage #13 - #14
