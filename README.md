@@ -240,7 +240,7 @@ A lot of articles and walkthroughs suggest that this stage works on Internet Exp
 The hint displays a regex `"s/[\x00-\x20\<\>\"\']//g;"` which seems to filter out the input and rejects '<', '>' and '""'.
 
 <p align="center">
-<img width="693" height="351" alt="image" src="https://github.com/user-attachments/assets/08f60158-2f1a-45c3-842a-49d1eee86d5a" />
+<img width="550" height="270" alt="image" src="https://github.com/user-attachments/assets/08f60158-2f1a-45c3-842a-49d1eee86d5a" />
 </p>
 
 The solution to this stage is quite different and involves the use of backticks (`). The regex has no rule to reject backticks and this is what we'll utilise here.
