@@ -237,9 +237,23 @@ This stage isn't available.
 
 A lot of articles and walkthroughs suggest that this stage works on Internet Explorer only, so I switched to a device with IE support.
 
+The hint displays a regex `"s/[\x00-\x20\<\>\"\']//g;"` which seems to filter out the input and rejects '<', '>' and '""'.
+
+<p align="center">
+<img width="693" height="351" alt="image" src="https://github.com/user-attachments/assets/08f60158-2f1a-45c3-842a-49d1eee86d5a" />
+</p>
+
+The solution to this stage is quite different and involves the use of backticks (`). The regex has no rule to reject backticks and this is what we'll utilise here.
+
+The payload:
+
+    ``onmouseover=alert(document.domain);
+
 <p align="center">
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/6651280e-c763-45a1-ba89-d7499ec6f921" />
 </p>
+
+The payload works and gives an alert on mouseover.
 
 <p align="center">
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/761931f2-ebd7-43e1-851e-392c53cf482c" />
