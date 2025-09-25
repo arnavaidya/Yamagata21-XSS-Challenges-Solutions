@@ -247,7 +247,7 @@ The solution to this stage is quite different and involves the use of backticks 
 
 The payload:
 
-    ``onmouseover=alert(document.domain);
+``onmouseover=alert(document.domain);
 
 <p align="center">
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/6651280e-c763-45a1-ba89-d7499ec6f921" />
